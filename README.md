@@ -4,5 +4,5 @@
 
 
 ### Overview
-Creating a website that makes use od machine learning techniques to predict price of houses based on its area, bhk, bathroom and location. 
+Creating a website that makes use of machine learning techniques to predict price of houses based on its area, bhk, bathroom and location. 
 Initially a model has been built using Bengaluru_House_Data dataset from kaggle.com. Then, Python flask has been used for http server. Finally, a website has been built using html, css and javascript.
